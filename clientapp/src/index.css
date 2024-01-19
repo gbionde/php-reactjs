@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Consolas', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #fbf0c9;
+  color: #4e555c;
+}
