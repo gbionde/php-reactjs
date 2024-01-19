@@ -1,9 +1,9 @@
 const phpServer = {
-    portLocalHost: 8000,
+    port: 8000,
 };
 
 const appSettings = {
-    routerUrl: `http://localhost:${phpServer.portLocalHost}/router.php`,
+    routerUrl: `http://localhost:${phpServer.port}/router.php`,
 };
 
 export default appSettings;
