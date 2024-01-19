@@ -25,14 +25,3 @@ class TodoRepository implements TodoRepositoryInterface
         return $this->todos;
     }
 }
-
-
-// Example usage:
-// $todoRepository = new TodoRepository();
-// $todoController = new TodoController($todoRepository);
-
-// // Add a todo
-// $todoController->addTodo(['text' => 'Buy groceries']);
-
-// // List all todos
-// $todoController->listTodos();
